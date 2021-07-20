@@ -14,8 +14,7 @@ npm install react-native-background-gradient--save
 
 ```js
 import Background from 'react-native-background-gradient';
-import Text from 'react-native';
-
+import { Text } from 'react-native';
 
 export default () => (
     <Background from={'rgb(255, 255, 255)'} to={'rgb(0,102,84)'}>
