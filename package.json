@@ -1,6 +1,6 @@
 {
     "name": "react-native-background-gradient",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Provides a native React view that transitions between multiple colors in a linear direction",
     "main": "index.js",
     "repository": {
